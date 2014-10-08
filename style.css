@@ -42,9 +42,12 @@ ul {
 #signin {
 	background-color: blue;
 	font-weight: 800;
-	color: #ffffff !important;
-	padding: 7px 12px;
+		padding: 7px 12px;
 
+}
+
+#signin a {
+	color: #ffffff;
 }
 
 
